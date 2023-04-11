@@ -1,0 +1,15 @@
+/Users/weilelin/Projects/Program/Program/bin/Debug/net7.0/Program
+/Users/weilelin/Projects/Program/Program/bin/Debug/net7.0/Program.deps.json
+/Users/weilelin/Projects/Program/Program/bin/Debug/net7.0/Program.runtimeconfig.json
+/Users/weilelin/Projects/Program/Program/bin/Debug/net7.0/Program.dll
+/Users/weilelin/Projects/Program/Program/bin/Debug/net7.0/Program.pdb
+/Users/weilelin/Projects/Program/Program/obj/Debug/net7.0/Program.csproj.AssemblyReference.cache
+/Users/weilelin/Projects/Program/Program/obj/Debug/net7.0/Program.GeneratedMSBuildEditorConfig.editorconfig
+/Users/weilelin/Projects/Program/Program/obj/Debug/net7.0/Program.AssemblyInfoInputs.cache
+/Users/weilelin/Projects/Program/Program/obj/Debug/net7.0/Program.AssemblyInfo.cs
+/Users/weilelin/Projects/Program/Program/obj/Debug/net7.0/Program.csproj.CoreCompileInputs.cache
+/Users/weilelin/Projects/Program/Program/obj/Debug/net7.0/Program.dll
+/Users/weilelin/Projects/Program/Program/obj/Debug/net7.0/refint/Program.dll
+/Users/weilelin/Projects/Program/Program/obj/Debug/net7.0/Program.pdb
+/Users/weilelin/Projects/Program/Program/obj/Debug/net7.0/Program.genruntimeconfig.cache
+/Users/weilelin/Projects/Program/Program/obj/Debug/net7.0/ref/Program.dll
